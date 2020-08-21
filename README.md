@@ -3,5 +3,5 @@ Personal Pages
 
 [Blog in Korean](http://parkmino45.blog.me/)  
 [WordPress in Korean](https://mino170001903.wordpress.com/)  
-[UPnP/DLNA audio renderer 19.12 for Raspberry Pi](https://drive.google.com/open?id=1azhs16A8cXnUSiI-RpZEC13HpGcrcvY2)  
-[LibreELEC 9.2.0 audio tuning 19.11 for Raspberry Pi 2/3](https://drive.google.com/open?id=1lR6dOQBRTIFEoRwEDbbcTBZTYBsM7M1f)
+[UPnP/DLNA audio renderer 20.06 for Raspberry Pi](https://drive.google.com/file/d/1XfZNM2vw8UsSDrX4kKjDcJNi0E8DtUw8)  
+[LibreELEC 9.2.4 audio tuning 20.08 for Raspberry Pi 2/3](https://drive.google.com/file/d/1susTbwUWfVzuAL1AoX-YxyzbD6O5vAVe)
